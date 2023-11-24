@@ -1,3 +1,4 @@
+![banking-management2](https://github.com/NikhilPanda01/Bank_Account_Management/assets/114555468/da99fa4c-fb4c-482d-91fb-d7c68645662c)
 # Project Introduction: Bank_Account_Management
 ---
 
