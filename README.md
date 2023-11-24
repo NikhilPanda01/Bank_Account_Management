@@ -1,4 +1,6 @@
-**Project Introduction: Bank_Account_Management**
+# Project Introduction: Bank_Account_Management
+---
+
 
 Welcome to the Bank_Account_Management project, where we will embark on an engaging exploration of Object-Oriented Programming principles. 
 In this challenge, our objective is to create a versatile Bank Account class that efficiently manages transactions while adhering to essential financial constraints.
@@ -19,3 +21,4 @@ The Bank_Account_Management project encompasses the following key elements:
 
 Throughout the Bank_Account_Management project, we will deepen our understanding of object-oriented design and fortify your programming proficiency. 
 Embrace the challenge, let our coding prowess shine, and may our Bank Account class exemplify excellence in Object-Oriented Programming!
+---
